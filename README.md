@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- <img align="right" src="https://github-readme-stats.vercel.app/api?username=brankhsu&show_icons=true">
 - 🔭 I’m currently working on Final exam
 - 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on 
@@ -8,5 +8,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=brankhsu&show_icons=true">
+
 
